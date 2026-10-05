@@ -1,6 +1,6 @@
 # 📖 Notebook Reader
 
-A personal, self-hosted reader for long `.txt` novels. Drop in a huge raw text file (10 MB+ is fine) and it becomes a comfortable reading experience with chapters, themes, fonts and a remembered position, in the spirit of Wattpad, Truyenfull and TruyenYY. The text itself is never modified; only how it is displayed changes.
+A personal, self-hosted reader for long `.txt` novels. Drop in a huge raw text file (10 MB+ is fine) and it becomes a comfortable reading experience with chapters, themes, fonts and a remembered position. The text itself is never modified; only how it is displayed changes.
 
 > **Personal project.** Built for a single user (me), deployed on my own free Cloudflare account. The code is public for reference, but there is no public instance and no accounts.
 
